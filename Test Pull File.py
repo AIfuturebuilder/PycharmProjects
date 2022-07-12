@@ -22,5 +22,3 @@ def main():
     print(convolve(dateMat, kernel))
 
 main()
-
-Hello!
